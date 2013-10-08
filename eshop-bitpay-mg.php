@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: eShop bitpay MG
-Plugin URI: https://github.com/nextime/bitpay-eshop-mg
+Plugin URI: https://github.com/nextime/eshop-bitpay-mg
 Description: BitPay Merchant Gatway for eShop
 Version: 0.0.1
 Author: Franco Lanza
